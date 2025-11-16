@@ -1,0 +1,4 @@
+background_color=#FBFF69
+text_color=#000000
+font_size=14
+font=Arial
